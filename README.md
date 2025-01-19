@@ -5,16 +5,11 @@ some changes
 
 ## Introduction for non-crypto Developers
 
-### What is Convex?
+### What is Convex?  
 
-- A platform for building decentralised applications (dApps)  
-- Provides sub-second performance at 10k+ transactions per second (TPS) on a public or private network  
+- A platform for building decentralised applications (dApps)  
+- Provides sub-second performance at 10k+ transactions per second (TPS) on a public or private network
 - Immutable data stores, securely encrypted
-
-### What is Convex?  
-– A platform for building decentralised applications (dApps)  
-– Provides sub-second performance at 10k+ transactions per second (TPS) on a public or private network  
-– Immutable data stores, securely encrypted
 
 ### Convex Desktop
 - Create Convex accounts and Peers via a graphical user interface (GUI) for operating networks
@@ -31,7 +26,7 @@ some changes
 - Learn Convex Lisp for more advanced functions
 <img width="462" alt="image" src="https://github.com/user-attachments/assets/a8fe1f34-50d1-4dfb-bf77-d0a3d86ef20b" />
 
-
+|««€
 
 
 ## Step 1a: Hacker Tools KeyGen
