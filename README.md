@@ -2,6 +2,14 @@
 Source code for Docusaurus on Desktop
 some changes
 
+## Introduction for non-crypto Developers
+![image](https://github.com/user-attachments/assets/e8043847-93f2-416b-8259-3ddbef81d1e4)
+-
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/a8fe1f34-50d1-4dfb-bf77-d0a3d86ef20b" />
+
+
+
+
 ## Step 1a: Hacker Tools KeyGen
 <img width="428" alt="image" src="https://github.com/user-attachments/assets/33c74dff-de8c-41a3-ac57-b76ec5d02081" />
 
