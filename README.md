@@ -3,8 +3,23 @@ Source code for Docusaurus on Desktop
 some changes
 
 ## Introduction for non-crypto Developers
-![image](https://github.com/user-attachments/assets/e8043847-93f2-416b-8259-3ddbef81d1e4)
--
+
+### What is Convex?
+– A platform for building decentralised applications (dApps)
+– Provides sub-second performance at 10k+ transactions per second TPS on a public or private network
+– Immutable data stores, securely encrypted
+### Convex Desktop:
+- Create Convex accounts and Peers via a graphical user interface (GUI) for operating networks
+- Allows developers to generate test networks and secure crypto keys prior to production use
+- Prepare and test transactions before committing to execution or paying fees
+- Manage a wallet for storing keys and account balances
+- In production, earn fees for staking and operating Peers 
+- Use for global scale payments and gaming
+### Getting Started:
+- Compatible with Windows, Linux, and MacOS
+- Requires Java 21 or higher
+- Download the latest convex.jar from Convex Snapshots
+- Learn Convex Lisp for more advanced functions
 <img width="462" alt="image" src="https://github.com/user-attachments/assets/a8fe1f34-50d1-4dfb-bf77-d0a3d86ef20b" />
 
 
