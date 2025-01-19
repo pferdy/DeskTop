@@ -14,3 +14,11 @@ some changes
 - Remember identicon.  It will be useful later
 - Normalise mnemonic sets lower case
 - Click Add to keyring
+## Step 1b: Hacker Tools Load Keystore
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/213b510c-de97-45db-a5cf-fedfabcb310f" />
+
+- Icon for swift recognition 
+- Public key to share
+- Source = location of keystore 
+- Lock for extra security, keep separate from other keys and passphrases.
+
