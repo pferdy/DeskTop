@@ -3,6 +3,8 @@ Source code for Docusaurus on Desktop
 some changes
 
 ## Step 1a: Hacker Tools KeyGen
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/33c74dff-de8c-41a3-ac57-b76ec5d02081" />
+
 - Click Generate – 12 words appear in seed Phrase
 - Enter Passphrase (lower case)
 - Record both someway safe. DON’T LOSE
