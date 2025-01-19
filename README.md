@@ -4,10 +4,17 @@ some changes
 
 ## Introduction for non-crypto Developers
 
-### What is Convex?  
-– A platform for building decentralised applications (dApps)
-– Provides sub-second performance at 10k+ transactions per second TPS on a public or private network
+### What is Convex?
+
+– A platform for building decentralised applications (dApps)  
+– Provides sub-second performance at 10k+ transactions per second (TPS) on a public or private network  
 – Immutable data stores, securely encrypted
+
+### What is Convex?  
+– A platform for building decentralised applications (dApps)  
+– Provides sub-second performance at 10k+ transactions per second (TPS) on a public or private network  
+– Immutable data stores, securely encrypted
+
 ### Convex Desktop:
 - Create Convex accounts and Peers via a graphical user interface (GUI) for operating networks
 - Allows developers to generate test networks and secure crypto keys prior to production use
