@@ -12,7 +12,3 @@ some changes
 - Remember identicon.  It will be useful later
 - Normalise mnemonic sets lower case
 - Click Add to keyring
-0 commit comments
-Comments
-0
- (0)
